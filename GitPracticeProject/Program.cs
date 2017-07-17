@@ -10,6 +10,7 @@ namespace GitPracticeProject
     {
         static void Main(string[] args)
         {
+            //initial changes
         }
     }
 }
